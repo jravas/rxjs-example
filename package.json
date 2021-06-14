@@ -1,0 +1,15 @@
+{
+  "name": "rxjs-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel ./index.html ./examples/*/*.html"
+  },
+  "devDependencies": {
+    "parcel": "^2.0.0-beta.2"
+  },
+  "dependencies": {
+    "rxjs": "^7.1.0"
+  }
+}
